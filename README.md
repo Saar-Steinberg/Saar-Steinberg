@@ -27,46 +27,37 @@ Relevant coursework: Computation & Cognition, Statistics for Information Systems
 **Analytics:** Data analysis · Statistics · Quantitative modeling  
 **Tools & Concepts:** Git · Relational databases · Information systems design · OOP
 
-📌 Featured Projects
+## 📌 Featured Projects
 
-OOP Taxi Management Project
+### [OOP Taxi Management Project](https://github.com/Saar-Steinberg/OOP_TaxiManagement_Project)
 
 A Java Swing academic project for managing taxis, managers, subscribers, and orders.
 
-Highlights:
+**Highlights:**
 
-Object-oriented domain model with inheritance, encapsulation, and polymorphism
+- Object-oriented domain model with inheritance, encapsulation, and polymorphism
+- Java Swing user interface
+- File-based data loading and export
+- Clear Model / View / Control separation
 
-Java Swing user interface
-
-File-based data loading and export
-
-Clear Model / View / Control separation
-
-ParkWise — Parking Management System
+### ParkWise — Parking Management System
 
 A Java desktop coursework project that models parking-facility operations, developed incrementally across two exercises.
 
-Highlights:
+**Highlights:**
 
-Parking allocation and vehicle entry/exit workflows
+- Parking allocation and vehicle entry/exit workflows
+- Subscription, access-control, pricing, and payment flows
+- Layered architecture using Boundary, Control, and Entity components
+- Local Microsoft Access database integration through JDBC
+- Reporting support with JasperReports
+- Simulated gate and payment integrations, designed for coursework use
 
-Subscription, access-control, pricing, and payment flows
+**Repositories:**
 
-Layered architecture using Boundary, Control, and Entity components
+- [ParkWise – Exercise 2](https://github.com/Saar-Steinberg/ParkWise-Exercise-2) — foundation of the parking-management system
+- [ParkWise – Exercise 3](https://github.com/Saar-Steinberg/ParkWise-Exercise-3) — extended implementation with additional workflows, data integration, and reporting
 
-Local Microsoft Access database integration through JDBC
+## 📫 Connect
 
-Reporting support with JasperReports
-
-Simulated gate and payment integrations, designed for coursework use
-
-Repositories:
-
-ParkWise – Exercise 2 — foundation of the parking-management system
-
-ParkWise – Exercise 3 — extended implementation with additional workflows, data integration, and reporting
-
-📫 Connect
-
-LinkedIn: saar-steinberg-9299213a1
+- LinkedIn: [saar-steinberg-9299213a1](https://www.linkedin.com/in/saar-steinberg-9299213a1/)
